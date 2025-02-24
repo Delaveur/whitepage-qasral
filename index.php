@@ -3,11 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Discover the grandeur of Qasr Al Watan, the majestic presidential palace in Abu Dhabi. Explore its stunning architecture, cultural exhibits, and light shows. Book your tickets online for an unforgettable experience!" />
+    <meta name="keywords" content="presidential palace abu dhabi tickets, qasr al watan ticket price, qasr al watan tickets, abu dhabi palace tickets, qasr al watan light show, qasr al watan timings, uae presidential palace tickets">
+    <meta name="author" content="Qasr Al Watan">
+    <title>Qasr Al Watan</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         function toggleMenu() {
             let menu = document.getElementById("mobile-menu");
-            
             if (menu.classList.contains("hidden")) {
                 menu.classList.remove("hidden", "h-0");
                 menu.classList.add("h-auto", "p-4");
@@ -21,7 +26,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
     <!-- Swiper JS -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-    <title>Qasr Al Watan</title>
 </head>
 <body>
     <div class="bg-white text-blue-800 py-4 px-6 border-b-2 border-yellow-500">
@@ -164,7 +168,7 @@
         </nav>
     </footer>
     <!-- Cookies Notice -->
-    <div id="cookie-notice" class="fixed bottom-0 left-0 w-full bg-gray-800 text-white p-4 text-center" style="display: none;">
+    <div id="cookie-notice" class="fixed bottom-0 left-0 w-full bg-gray-800 text-white p-4 text-center z-40" style="display: none;">
         <p>We use cookies to enhance your experience. By continuing, you agree to our <a href="privacy.php" class="text-blue-400 underline">Privacy Policy</a>.</p>
         <button id="accept-cookies" class="bg-blue-500 text-white px-4 py-2 rounded mt-2">Accept</button>
     </div>
