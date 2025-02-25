@@ -6,7 +6,7 @@
     <meta name="description" content="Discover the grandeur of Qasr Al Watan, the majestic presidential palace in Abu Dhabi. Explore its stunning architecture, cultural exhibits, and light shows. Book your tickets online for an unforgettable experience!" />
     <meta name="keywords" content="presidential palace abu dhabi tickets, qasr al watan ticket price, qasr al watan tickets, abu dhabi palace tickets, qasr al watan light show, qasr al watan timings, uae presidential palace tickets">
     <meta name="author" content="Qasr Al Watan">
-    <title>Qasr Al Watan Opening Hours</title>
+    <title>Privacy policy</title>
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -50,52 +50,39 @@
             <li><a href="/sliding/" class="block py-2 hover:text-yellow-500">Sliding Sleighs</a></li>
         </ul>
     </div>
-    <section class="flex justify-center my-6 max-w-[1400px] mx-auto items-center md:px-4 sm:px-0">
-        <img src="/upload/opening.png"
-                class="w-3/4 h-[500px] rounded-lg shadow-lg object-cover 
-                md:w-full md:h-auto md:max-h-[500px] 
-                sm:w-full sm:rounded-none sm:h-auto">
-    </section>
     <!-- Section 1 -->
-    <section class="max-w-[1400px] mx-auto py-12 px-4 md:px-8">
-    <h1 class="text-center text-3xl font-semibold mb-6">Qasr Al Watan Opening Hours</h1>
+    <section class="max-w-[1400px] min-h-[854px] mx-auto py-12 px-4 md:px-8">
+    <h1 class="text-3xl font-bold mb-4">Privacy Policy</h1>
+        <p>We take the confidentiality of your personal information very seriously. This policy explains what information we collect, how it is used, and your rights as a user.</p>
 
-    <p class="mb-3">
-        Discover the magnificent Qasr Al Watan, a cultural landmark that offers deep insights into the UAE’s governance, history, and heritage. Plan your visit to explore the palace’s breathtaking architecture, fascinating exhibits, and beautifully landscaped gardens.
-    </p>
+        <h2 class="text-2xl font-bold mt-6 mb-2">Collected Information</h2>
+        <p>We collect data when you interact with our website, such as:</p>
+        <ul class="list-disc list-inside mt-4">
+            <li>Your contact information (name, email, phone number).</li>
+            <li>Information about your device (IP address, browser, operating system).</li>
+            <li>Your preferences and interactions with the site.</li>
+        </ul>
 
-    <h3 class="text-lg font-bold">General Admission</h3>
-    <p class="mb-3">
-        Visitors are welcome to explore Qasr Al Watan at their own pace, discovering its grand halls, curated exhibits, and interactive displays that highlight the country’s intellectual legacy. 
-    </p>
+        <h2 class="text-2xl font-bold mt-6 mb-2">Use of Data</h2>
+        <p>We use your information to:</p>
+        <ul class="list-disc list-inside mt-4">
+            <li>Provide the requested services.</li>
+            <li>Improve our products and services.</li>
+            <li>Send relevant communications and respond to your inquiries.</li>
+        </ul>
 
-    <h3 class="text-lg font-bold">Light Show Experience</h3>
-    <p class="mb-3">
-        Witness the stunning <em>Palace in Motion</em> light show, a mesmerizing spectacle that illuminates the palace’s facade with a vibrant display of colors and storytelling, bringing the UAE’s journey to life.
-    </p>
+        <h2 class="text-2xl font-bold mt-6 mb-2">Data Sharing</h2>
+        <p>Your data is shared only:</p>
+        <ul class="list-disc list-inside mt-4">
+            <li>With third-party service providers for the operation of our website.</li>
+            <li>If required by law.</li>
+        </ul>
 
-    <h3 class="text-lg font-bold">Guided Tours</h3>
-    <p class="mb-3">
-        Enhance your experience with an expert-guided tour, offering in-depth knowledge of the palace’s history, architecture, and significance. Our professional guides provide fascinating insights that make your visit truly memorable.
-    </p>
+        <h2 class="text-2xl font-bold mt-6 mb-2">Your Rights</h2>
+        <p>You have the right to access, correct, or request the deletion of your personal data. For any request, please contact us via our contact form.</p>
 
-    <h3 class="text-lg font-bold">Visitors Information</h3>
-    <p id="visitors-information" class="mb-3">
-        To ensure a seamless visit, we recommend reviewing essential information before arriving. Qasr Al Watan offers accessibility services, visitor amenities, and guidelines to enhance your experience. For more details, please refer to our visitor guide or contact our support team.
-    </p>
-
-    <h3 class="text-lg font-bold">Why Visit Qasr Al Watan?</h3>
-    <ul class="list-disc pl-12 mb-3">
-        <li>Immerse yourself in the grandeur of one of the UAE’s most iconic cultural landmarks.</li>
-        <li>Explore interactive exhibits and historic artifacts showcasing the nation’s legacy.</li>
-        <li>Experience the breathtaking <em>Palace in Motion</em> light show.</li>
-        <li>Walk through beautifully landscaped gardens with stunning architectural views.</li>
-        <li>Enjoy guided tours that provide exclusive insights into the palace’s history.</li>
-    </ul>
-
-    <p class="mb-3">
-        Step into a world of knowledge, beauty, and cultural significance—Qasr Al Watan welcomes you to an unforgettable journey.
-    </p>
+        <h2 class="text-2xl font-bold mt-6 mb-2">Security</h2>
+        <p>We employ advanced security measures to protect your information from unauthorized access.</p>
     </section>
     <footer class="bg-gray-800 text-white text-center py-4">
         <p class="mb-3">&copy; <?php echo date("Y"); ?> Qasr Al Watan. All Rights Reserved.</p>

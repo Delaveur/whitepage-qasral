@@ -26,7 +26,7 @@
 <body>
     <div class="bg-white text-blue-800 py-4 px-6 border-b-2 border-yellow-500">
         <div class="max-w-[1400px] mx-auto flex justify-between items-center">
-            <h1 class="text-2xl font-bold text-yellow-500">Qasr Al Watan</h1>
+            <h1 class="text-2xl font-bold text-yellow-500"><a href="/">Qasr Al Watan</a></h1>
             <button class="lg:hidden" onclick="toggleMenu()">☰</button>
             <nav class="hidden lg:block">
                 <ul class="flex space-x-6">
