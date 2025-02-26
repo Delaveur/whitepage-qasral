@@ -163,13 +163,13 @@
 <footer class="bg-gray-800 text-white text-center py-4">
         <p>&copy; <?php echo date("Y"); ?> Qasr Al Watan. All Rights Reserved.</p>
         <nav class="mt-2">
-            <a href="privacy.php" class="text-blue-600 hover:underline mr-4">Privacy Policy</a>
-            <a href="terms.php" class="text-blue-600 hover:underline">Terms of Conduct</a>
+            <a href="/privacy.php" class="text-blue-600 hover:underline mr-4">Privacy Policy</a>
+            <a href="/terms.php" class="text-blue-600 hover:underline">Terms of Conduct</a>
         </nav>
     </footer>
     <!-- Cookies Notice -->
     <div id="cookie-notice" class="fixed bottom-0 left-0 w-full bg-gray-800 text-white p-4 text-center z-40" style="display: none;">
-        <p>We use cookies to enhance your experience. By continuing, you agree to our <a href="privacy.php" class="text-blue-400 underline">Privacy Policy</a>.</p>
+        <p>We use cookies to enhance your experience. By continuing, you agree to our <a href="/privacy.php" class="text-blue-400 underline">Privacy Policy</a>.</p>
         <button id="accept-cookies" class="bg-blue-500 text-white px-4 py-2 rounded mt-2">Accept</button>
     </div>
     <script>

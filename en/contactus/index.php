@@ -77,8 +77,8 @@
     <footer class="bg-gray-800 text-white text-center py-4">
         <p class="mb-3">&copy; <?php echo date("Y"); ?> Qasr Al Watan. All Rights Reserved.</p>
         <nav class="mt-2">
-            <a href="privacy.php" class="text-blue-600 hover:underline mr-4">Privacy Policy</a>
-            <a href="terms.php" class="text-blue-600 hover:underline">Terms of Conduct</a>
+            <a href="/privacy.php" class="text-blue-600 hover:underline mr-4">Privacy Policy</a>
+            <a href="/terms.php" class="text-blue-600 hover:underline">Terms of Conduct</a>
         </nav>
     </footer>
 </body>
