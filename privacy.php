@@ -30,11 +30,11 @@
             <button class="lg:hidden" onclick="toggleMenu()">☰</button>
             <nav class="hidden lg:block">
                 <ul class="flex space-x-6">
-                    <li><a href="/calendars/day/#/theme-park/" class="font-medium hover:text-yellow-500">Day view</a></li>
-                    <li><a href="/offers-discounts/" class="font-medium hover:text-yellow-500">Offers</a></li>
-                    <li><a href="/destinations/theme-park/" class="font-medium hover:text-yellow-500">Theme park</a></li>
-                    <li><a href="/railroad/" class="font-medium hover:text-yellow-500">Railroad</a></li>
-                    <li><a href="/sliding/" class="font-medium hover:text-yellow-500">Sliding Sleighs</a></li>
+                    <li><a href="/en/explore-the-palace/" class="font-medium hover:text-yellow-500">Explore the palace</a></li>
+                    <li><a href="/en/tickets/" class="font-medium hover:text-yellow-500">Tickets</a></li>
+                    <li><a href="/en/plan-your-visit/opening-hours#visitors-information" class="font-medium hover:text-yellow-500">Visitors Information</a></li>
+                    <li><a href="/#inside-qasralwatan" class="font-medium hover:text-yellow-500">Inside Qasr Al Watan</a></li>
+                    <li><a href="/en/contactus/" class="font-medium hover:text-yellow-500">Contact Us</a></li>
                 </ul>
             </nav>
         </div>
@@ -43,11 +43,11 @@
     <!-- Мобильное меню -->
     <div id="mobile-menu" class="hidden bg-gray-100 text-blue-800 p-4 lg:hidden overflow-hidden h-0">
         <ul class="py-4">
-            <li><a href="/calendars/day/#/theme-park/" class="block py-2 hover:text-yellow-500">Day view</a></li>
-            <li><a href="/offers-discounts/" class="block py-2 hover:text-yellow-500">Offers</a></li>
-            <li><a href="/destinations/theme-park/" class="block py-2 hover:text-yellow-500">Theme park</a></li>
-            <li><a href="/railroad/" class="block py-2 hover:text-yellow-500">Railroad</a></li>
-            <li><a href="/sliding/" class="block py-2 hover:text-yellow-500">Sliding Sleighs</a></li>
+            <li><a href="/en/explore-the-palace/" class="block py-2 hover:text-yellow-500">Explore the palace</a></li>
+            <li><a href="/en/tickets/" class="block py-2 hover:text-yellow-500">Tickets</a></li>
+            <li><a href="/en/plan-your-visit/opening-hours#visitors-information" class="block py-2 hover:text-yellow-500">Visitors Information</a></li>
+            <li><a href="/#inside-qasralwatan" class="block py-2 hover:text-yellow-500">Inside Qasr Al Watan</a></li>
+            <li><a href="/en/contactus/" class="block py-2 hover:text-yellow-500">Contact Us</a></li>
         </ul>
     </div>
     <!-- Section 1 -->
