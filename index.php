@@ -66,28 +66,28 @@
         <!-- Section 1 -->
         <section class="max-w-[1400px] mx-auto py-12 px-4 md:px-8">
         <h2 class="text-center text-3xl font-semibold mb-6">SHARE OUR NATION’S JOURNEY</h2>
-        <p class="text-center max-w-2xl mx-auto mb-6">Qasr Al Watan is more than an ...</p>
+        <p class="text-center max-w-2xl mx-auto mb-6">Qasr Al Watan Tickets – Your Gateway to a Royal Experience</p>
         <div class="text-center">
-            <a href="#" class="bg-blue-800 text-white py-2 px-6 rounded-md font-medium hover:bg-blue-900">SECURE YOUR PERSONAL PALACE TOUR</a>
+            <a href="/en/tickets/" class="bg-blue-800 text-white py-2 px-6 rounded-md font-medium hover:bg-blue-900">SECURE YOUR PERSONAL PALACE TOUR</a>
         </div>
     </section>
 
     <!-- Section 2 (Two-column layout) -->
     <section class="max-w-[1400px] mx-auto grid md:grid-cols-2 gap-6 px-4 md:px-8">
         <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="image1.jpg" alt="Culture and Tradition" class="w-full h-64 object-cover">
+            <img src="/upload/explore.png" alt="Explore Qasr Al Watan" class="w-full h-64 object-cover">
             <div class="p-6">
-                <h3 class="text-xl font-semibold mb-3">Experience Culture and Tradition</h3>
-                <p class="text-gray-700 mb-4">A closer look inside ...</p>
-                <a href="#" class="text-blue-800 font-medium hover:underline">LEARN MORE →</a>
+                <h3 class="text-xl font-semibold mb-3">Explore Qasr Al Watan</h3>
+                <p class="text-gray-700 mb-4">A Journey Through Majesty and Knowledge</p>
+                <a href="/en/explore-the-palace/" class="text-blue-800 font-medium hover:underline">LEARN MORE →</a>
             </div>
         </div>
         <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="image2.jpg" alt="Qasr Al Watan Map" class="w-full h-64 object-cover">
+            <img src="/upload/opening.png" alt="Opening Hours" class="w-full h-64 object-cover">
             <div class="p-6">
-                <h3 class="text-xl font-semibold mb-3">Download the Qasr Al Watan Map</h3>
-                <p class="text-gray-700 mb-4">Explore the palace map ...</p>
-                <a href="#" class="text-blue-800 font-medium hover:underline">DOWNLOAD NOW →</a>
+                <h3 class="text-xl font-semibold mb-3">Opening Hours</h3>
+                <p class="text-gray-700 mb-4">Discover the magnificent Qasr Al Watan</p>
+                <a href="/en/plan-your-visit/opening-hours#visitors-information" class="text-blue-800 font-medium hover:underline">LEARN MORE →</a>
             </div>
         </div>
     </section>
