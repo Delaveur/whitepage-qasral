@@ -104,51 +104,31 @@
             <div class="swiper-wrapper">
                 <!-- Slide 1 -->
                 <div class="swiper-slide">
-                    <a href="#" class="block bg-white text-gray-900 rounded-lg overflow-hidden shadow-lg">
-                        <img src="slider1.jpg" alt="Palace in Motion" class="w-full h-64 object-cover">
+                    <a href="/en/great-hall/" class="block bg-white text-gray-900 rounded-lg overflow-hidden shadow-lg">
+                        <img src="/upload/hall.png" alt="Qasr Al Watan – The Great Hall" class="w-full h-64 object-cover">
                         <div class="p-6">
-                            <h3 class="text-xl font-semibold mb-3">Palace in Motion (Light Show)</h3>
-                            <p class="text-gray-700">Enjoy a beautiful ...</p>
+                            <h3 class="text-xl font-semibold mb-3">The Great Hall</h3>
+                            <p class="text-gray-700">Step into the heart of Qasr Al Watan</p>
                         </div>
                     </a>
                 </div>
                 <!-- Slide 2 -->
                 <div class="swiper-slide">
-                    <a href="#" class="block bg-white text-gray-900 rounded-lg overflow-hidden shadow-lg">
-                        <img src="slider2.jpg" alt="Dining" class="w-full h-64 object-cover">
+                    <a href="/en/banquet/" class="block bg-white text-gray-900 rounded-lg overflow-hidden shadow-lg">
+                        <img src="/upload/presidental.png" alt="Qasr Al Watan – The Presidential Banquet" class="w-full h-64 object-cover">
                         <div class="p-6">
-                            <h3 class="text-xl font-semibold mb-3">Dining</h3>
-                            <p class="text-gray-700">Experience exquisite ...</p>
+                            <h3 class="text-xl font-semibold mb-3">The Presidential Banquet</h3>
+                            <p class="text-gray-700">A Celebration of Culture</p>
                         </div>
                     </a>
                 </div>
                 <!-- Slide 3 -->
                 <div class="swiper-slide">
-                    <a href="#" class="block bg-white text-gray-900 rounded-lg overflow-hidden shadow-lg">
-                        <img src="slider3.jpg" alt="Shopping" class="w-full h-64 object-cover">
+                    <a href="/en/music/" class="block bg-white text-gray-900 rounded-lg overflow-hidden shadow-lg">
+                        <img src="/upload/military.png" alt="Military Music Show" class="w-full h-64 object-cover">
                         <div class="p-6">
-                            <h3 class="text-xl font-semibold mb-3">Shopping</h3>
-                            <p class="text-gray-700">Discover unique souvenirs ...</p>
-                        </div>
-                    </a>
-                </div>
-                <!-- Slide 4 -->
-                <div class="swiper-slide">
-                    <a href="#" class="block bg-white text-gray-900 rounded-lg overflow-hidden shadow-lg">
-                        <img src="slider3.jpg" alt="Shopping" class="w-full h-64 object-cover">
-                        <div class="p-6">
-                            <h3 class="text-xl font-semibold mb-3">Shopping</h3>
-                            <p class="text-gray-700">Discover unique souvenirs ...</p>
-                        </div>
-                    </a>
-                </div>
-                <!-- Slide 5 -->
-                <div class="swiper-slide">
-                    <a href="#" class="block bg-white text-gray-900 rounded-lg overflow-hidden shadow-lg">
-                        <img src="slider3.jpg" alt="Shopping" class="w-full h-64 object-cover">
-                        <div class="p-6">
-                            <h3 class="text-xl font-semibold mb-3">Shopping</h3>
-                            <p class="text-gray-700">Discover unique souvenirs ...</p>
+                            <h3 class="text-xl font-semibold mb-3">Military Music Show</h3>
+                            <p class="text-gray-700">A Spectacle of Sound</p>
                         </div>
                     </a>
                 </div>
