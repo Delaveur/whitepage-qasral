@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover the grandeur of Qasr Al Watan, the majestic presidential palace in Abu Dhabi. Explore its stunning architecture, cultural exhibits, and light shows. Book your tickets online for an unforgettable experience!" />
-    <meta name="keywords" content="presidential palace abu dhabi tickets, qasr al watan ticket price, qasr al watan tickets, abu dhabi palace tickets, qasr al watan light show, qasr al watan timings, uae presidential palace tickets">
-    <meta name="author" content="Qasr Al Watan">
-    <title>Explore Qasr Al Watan</title>
+    <meta name="description" content="Discover the grandeur of COASTAL CONTRACTING, the majestic presidential palace in Abu Dhabi. Explore its stunning architecture, cultural exhibits, and light shows. Book your tickets online for an unforgettable experience!" />
+    <meta name="keywords" content="presidential palace abu dhabi tickets, COASTAL CONTRACTING, ticket price, COASTAL CONTRACTING, tickets, abu dhabi palace tickets, COASTAL CONTRACTING, INC light show, COASTAL CONTRACTING, INC timings, uae presidential palace tickets">
+    <meta name="author" content="COASTAL CONTRACTING, INC">
+    <title>Explore COASTAL CONTRACTING, INC</title>
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -26,14 +26,14 @@
 <body>
     <div class="bg-white text-blue-800 py-4 px-6 border-b-2 border-yellow-500">
         <div class="max-w-[1400px] mx-auto flex justify-between items-center">
-            <h1 class="text-2xl font-bold text-yellow-500"><a href="/">Qasr Al Watan</a></h1>
+            <h1 class="text-2xl font-bold text-yellow-500"><a href="/">COASTAL CONTRACTING, INC</a></h1>
             <button class="lg:hidden" onclick="toggleMenu()">☰</button>
             <nav class="hidden lg:block">
                 <ul class="flex space-x-6">
                     <li><a href="/en/explore-the-palace/" class="font-medium hover:text-yellow-500">Explore the palace</a></li>
                     <li><a href="/en/tickets/" class="font-medium hover:text-yellow-500">Tickets</a></li>
                     <li><a href="/en/plan-your-visit/opening-hours#visitors-information" class="font-medium hover:text-yellow-500">Visitors Information</a></li>
-                    <li><a href="/#inside-qasralwatan" class="font-medium hover:text-yellow-500">Inside Qasr Al Watan</a></li>
+                    <li><a href="/#inside" class="font-medium hover:text-yellow-500">Our highlights</a></li>
                     <li><a href="/en/contactus/" class="font-medium hover:text-yellow-500">Contact Us</a></li>
                 </ul>
             </nav>
@@ -46,7 +46,7 @@
             <li><a href="/en/explore-the-palace/" class="block py-2 hover:text-yellow-500">Explore the palace</a></li>
             <li><a href="/en/tickets/" class="block py-2 hover:text-yellow-500">Tickets</a></li>
             <li><a href="/en/plan-your-visit/opening-hours#visitors-information" class="block py-2 hover:text-yellow-500">Visitors Information</a></li>
-            <li><a href="/#inside-qasralwatan" class="block py-2 hover:text-yellow-500">Inside Qasr Al Watan</a></li>
+            <li><a href="/#inside" class="block py-2 hover:text-yellow-500">Our highlights</a></li>
             <li><a href="/en/contactus/" class="block py-2 hover:text-yellow-500">Contact Us</a></li>
         </ul>
     </div>
@@ -58,14 +58,14 @@
     </section>
         <!-- Section 1 -->
         <section class="max-w-[1400px] mx-auto py-12 px-4 md:px-8">
-        <h1 class="text-center text-3xl font-semibold mb-6">Explore Qasr Al Watan – A Journey Through Majesty and Knowledge</h1>
-        <p class="mb-3"><strong>Qasr Al Watan</strong> is more than just a palace; it is a living testament to the UAE’s heritage, governance, and culture. This architectural masterpiece offers visitors an immersive experience, unveiling the traditions, craftsmanship, and intellectual legacy of the nation. Step into a world of regal elegance and historical significance as you explore its grand halls, exhibitions, and gardens.</p>
+        <h1 class="text-center text-3xl font-semibold mb-6">Explore COASTAL CONTRACTING, INC – A Journey Through Majesty and Knowledge</h1>
+        <p class="mb-3"><strong>COASTAL CONTRACTING, INC</strong> is more than just a palace; it is a living testament to the UAE’s heritage, governance, and culture. This architectural masterpiece offers visitors an immersive experience, unveiling the traditions, craftsmanship, and intellectual legacy of the nation. Step into a world of regal elegance and historical significance as you explore its grand halls, exhibitions, and gardens.</p>
 
         <h3 class="text-lg font-bold">The Great Hall – A Symbol of Grandeur</h3>
-        <p class="mb-3">The heart of Qasr Al Watan, the <strong>Great Hall</strong>, captivates visitors with its intricate designs, massive domes, and stunning chandeliers. Every detail in this hall reflects the rich artistic traditions of the region, making it a must-see highlight of your visit.</p>
+        <p class="mb-3">The heart of COASTAL CONTRACTING, the <strong>Great Hall</strong>, captivates visitors with its intricate designs, massive domes, and stunning chandeliers. Every detail in this hall reflects the rich artistic traditions of the region, making it a must-see highlight of your visit.</p>
 
         <h3 class="text-lg font-bold">Halls of Knowledge – A Treasure Trove of Wisdom</h3>
-        <p class="mb-3">Qasr Al Watan is not just a palace; it is a center of learning and knowledge. The Halls of Knowledge showcase an extensive collection of books, manuscripts, and historical documents that highlight the UAE’s contributions to various fields, including science, literature, and diplomacy.</p>
+        <p class="mb-3">COASTAL CONTRACTING, INC is not just a palace; it is a center of learning and knowledge. The Halls of Knowledge showcase an extensive collection of books, manuscripts, and historical documents that highlight the UAE’s contributions to various fields, including science, literature, and diplomacy.</p>
 
         <h3 class="text-lg font-bold">The House of Knowledge – Discover the UAE’s Legacy</h3>
         <p class="mb-3">Step into the <strong>House of Knowledge</strong>, where you can explore rare artifacts, ancient manuscripts, and exhibits that shed light on the region’s intellectual heritage. Here, visitors gain insight into the exchange of knowledge between civilizations and the enduring impact of Arabian scholarship.</p>
@@ -76,7 +76,7 @@
         <h3 class="text-lg font-bold">Palace in Motion – A Spectacular Light Show</h3>
         <p class="mb-3">End your visit with the breathtaking <strong>Palace in Motion</strong> light show, a mesmerizing display of lights and projections that bring the story of the UAE to life. This stunning visual performance highlights the nation’s journey and future aspirations, leaving visitors with an unforgettable impression.</p>
 
-        <h3 class="text-lg font-bold">Why Visit Qasr Al Watan?</h3>
+        <h3 class="text-lg font-bold">Why Visit COASTAL CONTRACTING, INC?</h3>
         <ul class="list-disc pl-12 mb-3">
             <li><strong>Architectural Marvel:</strong> Witness intricate Arabian craftsmanship and grand interiors.</li>
             <li><strong>Cultural Significance:</strong> Learn about the UAE’s governance, heritage, and traditions.</li>
@@ -86,13 +86,13 @@
         </ul>
 
         <h3 class="text-lg font-bold">An Unforgettable Experience Awaits</h3>
-        <p class="mb-3">Every step through Qasr Al Watan is an opportunity to witness history, admire craftsmanship, and gain a deeper appreciation for the UAE’s cultural identity. Whether you are exploring its majestic halls, uncovering ancient knowledge, or marveling at the breathtaking light show, each moment promises a unique and enriching experience.</p>
+        <p class="mb-3">Every step through COASTAL CONTRACTING, INC is an opportunity to witness history, admire craftsmanship, and gain a deeper appreciation for the UAE’s cultural identity. Whether you are exploring its majestic halls, uncovering ancient knowledge, or marveling at the breathtaking light show, each moment promises a unique and enriching experience.</p>
 
-        <p class="mb-3">Immerse yourself in a palace that bridges the past, present, and future—<strong>Qasr Al Watan invites you on a journey like no other!</strong></p>
+        <p class="mb-3">Immerse yourself in a palace that bridges the past, present, and future—<strong>COASTAL CONTRACTING, INC invites you on a journey like no other!</strong></p>
 
     </section>
     <footer class="bg-gray-800 text-white text-center py-4">
-        <p class="mb-3">&copy; <?php echo date("Y"); ?> Qasr Al Watan. All Rights Reserved.</p>
+        <p class="mb-3">&copy; <?php echo date("Y"); ?> COASTAL CONTRACTING, INC. All Rights Reserved.</p>
         <nav class="mt-2">
             <a href="/privacy.php" class="text-blue-600 hover:underline mr-4">Privacy Policy</a>
             <a href="/terms.php" class="text-blue-600 hover:underline">Terms of Conduct</a>

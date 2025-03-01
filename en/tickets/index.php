@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover the grandeur of Qasr Al Watan, the majestic presidential palace in Abu Dhabi. Explore its stunning architecture, cultural exhibits, and light shows. Book your tickets online for an unforgettable experience!" />
-    <meta name="keywords" content="presidential palace abu dhabi tickets, qasr al watan ticket price, qasr al watan tickets, abu dhabi palace tickets, qasr al watan light show, qasr al watan timings, uae presidential palace tickets">
-    <meta name="author" content="Qasr Al Watan">
+    <meta name="description" content="Discover the grandeur of COASTAL CONTRACTING, the majestic presidential palace in Abu Dhabi. Explore its stunning architecture, cultural exhibits, and light shows. Book your tickets online for an unforgettable experience!" />
+    <meta name="keywords" content="presidential palace abu dhabi tickets, COASTAL CONTRACTING, ticket price, COASTAL CONTRACTING, tickets, abu dhabi palace tickets, COASTAL CONTRACTING, INC light show, COASTAL CONTRACTING, INC timings, uae presidential palace tickets">
+    <meta name="author" content="COASTAL CONTRACTING, INC">
     <title>Tickets</title>
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -26,14 +26,14 @@
 <body>
     <div class="bg-white text-blue-800 py-4 px-6 border-b-2 border-yellow-500">
         <div class="max-w-[1400px] mx-auto flex justify-between items-center">
-            <h1 class="text-2xl font-bold text-yellow-500"><a href="/">Qasr Al Watan</a></h1>
+            <h1 class="text-2xl font-bold text-yellow-500"><a href="/">COASTAL CONTRACTING, INC</a></h1>
             <button class="lg:hidden" onclick="toggleMenu()">☰</button>
             <nav class="hidden lg:block">
                 <ul class="flex space-x-6">
                     <li><a href="/en/explore-the-palace/" class="font-medium hover:text-yellow-500">Explore the palace</a></li>
                     <li><a href="/en/tickets/" class="font-medium hover:text-yellow-500">Tickets</a></li>
                     <li><a href="/en/plan-your-visit/opening-hours#visitors-information" class="font-medium hover:text-yellow-500">Visitors Information</a></li>
-                    <li><a href="/#inside-qasralwatan" class="font-medium hover:text-yellow-500">Inside Qasr Al Watan</a></li>
+                    <li><a href="/#inside" class="font-medium hover:text-yellow-500">Our highlights</a></li>
                     <li><a href="/en/contactus/" class="font-medium hover:text-yellow-500">Contact Us</a></li>
                 </ul>
             </nav>
@@ -46,7 +46,7 @@
             <li><a href="/en/explore-the-palace/" class="block py-2 hover:text-yellow-500">Explore the palace</a></li>
             <li><a href="/en/tickets/" class="block py-2 hover:text-yellow-500">Tickets</a></li>
             <li><a href="/en/plan-your-visit/opening-hours#visitors-information" class="block py-2 hover:text-yellow-500">Visitors Information</a></li>
-            <li><a href="/#inside-qasralwatan" class="block py-2 hover:text-yellow-500">Inside Qasr Al Watan</a></li>
+            <li><a href="/#inside" class="block py-2 hover:text-yellow-500">Our highlights</a></li>
             <li><a href="/en/contactus/" class="block py-2 hover:text-yellow-500">Contact Us</a></li>
         </ul>
     </div>
@@ -58,8 +58,8 @@
     </section>
         <!-- Section 1 -->
         <section class="max-w-[1400px] mx-auto py-12 px-4 md:px-8">
-        <h1 class="text-center text-3xl font-semibold mb-6">Qasr Al Watan Tickets – Your Gateway to a Royal Experience</h1>
-        <p class="mb-3">Discover the grandeur of <strong>Qasr Al Watan</strong>, a majestic cultural landmark that offers a deep insight into the UAE’s rich heritage, governance, and craftsmanship. A visit to this stunning presidential palace is more than just a tour—it’s a journey through history, knowledge, and architectural brilliance.</p>
+        <h1 class="text-center text-3xl font-semibold mb-6">COASTAL CONTRACTING, tickets – Your Gateway to a Royal Experience</h1>
+        <p class="mb-3">Discover the grandeur of <strong>COASTAL CONTRACTING, INC</strong>, a majestic cultural landmark that offers a deep insight into the UAE’s rich heritage, governance, and craftsmanship. A visit to this stunning presidential palace is more than just a tour—it’s a journey through history, knowledge, and architectural brilliance.</p>
         <h3 class="text-lg font-bold">Ticket Options & Pricing</h3>
         <ul class="list-disc pl-12">
             <li><strong>General Admission</strong> – Enjoy full access to the palace, gardens, and exhibitions, where you can explore the Hall of Knowledge, Presidential Gifts, and the mesmerizing Great Hall.</li>
@@ -68,7 +68,7 @@
             <li><strong>Family & Group Packages</strong> – Special discounts are available for families and large groups to ensure an enriching experience for everyone.</li>
         </ul>
 
-        <h3 class="mt-3 text-lg font-bold">Why Visit Qasr Al Watan?</h3>
+        <h3 class="mt-3 text-lg font-bold">Why Visit COASTAL CONTRACTING, INC?</h3>
         <ul class="list-disc pl-12">
             <li><strong>Architectural Marvel</strong> – Be mesmerized by intricate Arabian craftsmanship and grand interiors.</li>
             <li><strong>Cultural Exploration</strong> – Gain a deeper understanding of the UAE’s governance and traditions.</li>
@@ -77,14 +77,14 @@
         </ul>
 
         <h3 class="mt-3 text-lg font-bold">Plan Your Visit</h3>
-        <p><strong>📍 Location:</strong> Qasr Al Watan, Abu Dhabi, UAE</p>
+        <p><strong>📍 Location:</strong> COASTAL CONTRACTING, Abu Dhabi, UAE</p>
         <p><strong>🕒 Opening Hours:</strong> 10:00 AM – 6:00 PM (timings may vary)</p>
         <p><strong>🎟 Book Your Tickets Now</strong> – Secure your entry online for a seamless experience.</p>
 
-        <p>Step into a world of royal elegance and cultural richness—<strong>Qasr Al Watan awaits!</strong></p>
+        <p>Step into a world of royal elegance and cultural richness—<strong>COASTAL CONTRACTING, INC awaits!</strong></p>
     </section>
     <footer class="bg-gray-800 text-white text-center py-4">
-        <p>&copy; <?php echo date("Y"); ?> Qasr Al Watan. All Rights Reserved.</p>
+        <p>&copy; <?php echo date("Y"); ?> COASTAL CONTRACTING, INC. All Rights Reserved.</p>
         <nav class="mt-2">
             <a href="/privacy.php" class="text-blue-600 hover:underline mr-4">Privacy Policy</a>
             <a href="/terms.php" class="text-blue-600 hover:underline">Terms of Conduct</a>

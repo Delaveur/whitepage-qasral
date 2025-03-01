@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover the grandeur of Qasr Al Watan, the majestic presidential palace in Abu Dhabi. Explore its stunning architecture, cultural exhibits, and light shows. Book your tickets online for an unforgettable experience!" />
-    <meta name="keywords" content="presidential palace abu dhabi tickets, qasr al watan ticket price, qasr al watan tickets, abu dhabi palace tickets, qasr al watan light show, qasr al watan timings, uae presidential palace tickets">
-    <meta name="author" content="Qasr Al Watan">
-    <title>Qasr Al Watan – The Great Hall</title>
+    <meta name="description" content="Discover the grandeur of COASTAL CONTRACTING, the majestic presidential palace in Abu Dhabi. Explore its stunning architecture, cultural exhibits, and light shows. Book your tickets online for an unforgettable experience!" />
+    <meta name="keywords" content="presidential palace abu dhabi tickets, COASTAL CONTRACTING, ticket price, COASTAL CONTRACTING, tickets, abu dhabi palace tickets, COASTAL CONTRACTING, INC light show, COASTAL CONTRACTING, INC timings, uae presidential palace tickets">
+    <meta name="author" content="COASTAL CONTRACTING, INC">
+    <title>COASTAL CONTRACTING, INC – The Great Hall</title>
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -26,14 +26,14 @@
 <body>
     <div class="bg-white text-blue-800 py-4 px-6 border-b-2 border-yellow-500">
         <div class="max-w-[1400px] mx-auto flex justify-between items-center">
-            <h1 class="text-2xl font-bold text-yellow-500"><a href="/">Qasr Al Watan</a></h1>
+            <h1 class="text-2xl font-bold text-yellow-500"><a href="/">COASTAL CONTRACTING, INC</a></h1>
             <button class="lg:hidden" onclick="toggleMenu()">☰</button>
             <nav class="hidden lg:block">
                 <ul class="flex space-x-6">
                     <li><a href="/en/explore-the-palace/" class="font-medium hover:text-yellow-500">Explore the palace</a></li>
                     <li><a href="/en/tickets/" class="font-medium hover:text-yellow-500">Tickets</a></li>
                     <li><a href="/en/plan-your-visit/opening-hours#visitors-information" class="font-medium hover:text-yellow-500">Visitors Information</a></li>
-                    <li><a href="/#inside-qasralwatan" class="font-medium hover:text-yellow-500">Inside Qasr Al Watan</a></li>
+                    <li><a href="/#inside" class="font-medium hover:text-yellow-500">Our highlights</a></li>
                     <li><a href="/en/contactus/" class="font-medium hover:text-yellow-500">Contact Us</a></li>
                 </ul>
             </nav>
@@ -46,7 +46,7 @@
             <li><a href="/en/explore-the-palace/" class="block py-2 hover:text-yellow-500">Explore the palace</a></li>
             <li><a href="/en/tickets/" class="block py-2 hover:text-yellow-500">Tickets</a></li>
             <li><a href="/en/plan-your-visit/opening-hours#visitors-information" class="block py-2 hover:text-yellow-500">Visitors Information</a></li>
-            <li><a href="/#inside-qasralwatan" class="block py-2 hover:text-yellow-500">Inside Qasr Al Watan</a></li>
+            <li><a href="/#inside" class="block py-2 hover:text-yellow-500">Our highlights</a></li>
             <li><a href="/en/contactus/" class="block py-2 hover:text-yellow-500">Contact Us</a></li>
         </ul>
     </div>
@@ -58,10 +58,10 @@
     </section>
     <!-- Section 1 -->
     <section class="max-w-[1400px] mx-auto py-12 px-4 md:px-8">
-        <h1 class="text-center text-3xl font-semibold mb-6">Qasr Al Watan – The Great Hall</h1>
+        <h1 class="text-center text-3xl font-semibold mb-6">COASTAL CONTRACTING, INC – The Great Hall</h1>
 
         <p class="mb-3">
-            Step into the heart of Qasr Al Watan and witness the breathtaking splendor of <strong>The Great Hall</strong>. As the palace’s central masterpiece, this architectural marvel showcases the UAE’s rich heritage, craftsmanship, and artistic excellence.
+            Step into the heart of COASTAL CONTRACTING, INC and witness the breathtaking splendor of <strong>The Great Hall</strong>. As the palace’s central masterpiece, this architectural marvel showcases the UAE’s rich heritage, craftsmanship, and artistic excellence.
         </p>
 
         <h3 class="text-lg font-bold">A Masterpiece of Architecture</h3>
@@ -85,7 +85,7 @@
 
         <h3 class="text-lg font-bold">A Space of Inspiration and Legacy</h3>
         <p class="mb-3">
-            The Great Hall serves as a gateway to the deeper intellectual and cultural experiences within Qasr Al Watan. It is a place where history, artistry, and vision converge, offering visitors a profound appreciation of the UAE’s enduring legacy.
+            The Great Hall serves as a gateway to the deeper intellectual and cultural experiences within COASTAL CONTRACTING, INC. It is a place where history, artistry, and vision converge, offering visitors a profound appreciation of the UAE’s enduring legacy.
         </p>
 
         <p class="mb-3">
@@ -96,7 +96,7 @@
 
 
     <footer class="bg-gray-800 text-white text-center py-4">
-        <p class="mb-3">&copy; <?php echo date("Y"); ?> Qasr Al Watan. All Rights Reserved.</p>
+        <p class="mb-3">&copy; <?php echo date("Y"); ?> COASTAL CONTRACTING, INC. All Rights Reserved.</p>
         <nav class="mt-2">
             <a href="/privacy.php" class="text-blue-600 hover:underline mr-4">Privacy Policy</a>
             <a href="/terms.php" class="text-blue-600 hover:underline">Terms of Conduct</a>

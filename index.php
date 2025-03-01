@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover the grandeur of Qasr Al Watan, the majestic presidential palace in Abu Dhabi. Explore its stunning architecture, cultural exhibits, and light shows. Book your tickets online for an unforgettable experience!" />
-    <meta name="keywords" content="presidential palace abu dhabi tickets, qasr al watan ticket price, qasr al watan tickets, abu dhabi palace tickets, qasr al watan light show, qasr al watan timings, uae presidential palace tickets">
-    <meta name="author" content="Qasr Al Watan">
-    <title>Qasr Al Watan</title>
+    <meta name="description" content="Discover the grandeur of COASTAL CONTRACTING, the majestic presidential palace in Abu Dhabi. Explore its stunning architecture, cultural exhibits, and light shows. Book your tickets online for an unforgettable experience!" />
+    <meta name="keywords" content="presidential palace abu dhabi tickets, COASTAL CONTRACTING, ticket price, COASTAL CONTRACTING, tickets, abu dhabi palace tickets, COASTAL CONTRACTING, INC light show, COASTAL CONTRACTING, INC timings, uae presidential palace tickets">
+    <meta name="author" content="COASTAL CONTRACTING, INC">
+    <title>COASTAL CONTRACTING, INC</title>
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -30,14 +30,14 @@
 <body>
     <div class="bg-white text-blue-800 py-4 px-6 border-b-2 border-yellow-500">
         <div class="max-w-[1400px] mx-auto flex justify-between items-center">
-            <h1 class="text-2xl font-bold text-yellow-500"><a href="/">Qasr Al Watan</a></h1>
+            <h1 class="text-2xl font-bold text-yellow-500"><a href="/">COASTAL CONTRACTING, INC</a></h1>
             <button class="lg:hidden" onclick="toggleMenu()">☰</button>
             <nav class="hidden lg:block">
                 <ul class="flex space-x-6">
                     <li><a href="/en/explore-the-palace/" class="font-medium hover:text-yellow-500">Explore the palace</a></li>
                     <li><a href="/en/tickets/" class="font-medium hover:text-yellow-500">Tickets</a></li>
                     <li><a href="/en/plan-your-visit/opening-hours#visitors-information" class="font-medium hover:text-yellow-500">Visitors Information</a></li>
-                    <li><a href="/#inside-qasralwatan" class="font-medium hover:text-yellow-500">Inside Qasr Al Watan</a></li>
+                    <li><a href="/#inside" class="font-medium hover:text-yellow-500">Our highlights</a></li>
                     <li><a href="/en/contactus/" class="font-medium hover:text-yellow-500">Contact Us</a></li>
                 </ul>
             </nav>
@@ -50,7 +50,7 @@
             <li><a href="/en/explore-the-palace/" class="block py-2 hover:text-yellow-500">Explore the palace</a></li>
             <li><a href="/en/tickets/" class="block py-2 hover:text-yellow-500">Tickets</a></li>
             <li><a href="/en/plan-your-visit/opening-hours#visitors-information" class="block py-2 hover:text-yellow-500">Visitors Information</a></li>
-            <li><a href="/#inside-qasralwatan" class="block py-2 hover:text-yellow-500">Inside Qasr Al Watan</a></li>
+            <li><a href="/#inside" class="block py-2 hover:text-yellow-500">Our highlights</a></li>
             <li><a href="/en/contactus/" class="block py-2 hover:text-yellow-500">Contact Us</a></li>
         </ul>
     </div>
@@ -66,7 +66,7 @@
         <!-- Section 1 -->
         <section class="max-w-[1400px] mx-auto py-12 px-4 md:px-8">
         <h2 class="text-center text-3xl font-semibold mb-6">SHARE OUR NATION’S JOURNEY</h2>
-        <p class="text-center max-w-2xl mx-auto mb-6">Qasr Al Watan Tickets – Your Gateway to a Royal Experience</p>
+        <p class="text-center max-w-2xl mx-auto mb-6">Your Gateway to a Royal Experience</p>
         <div class="text-center">
             <a href="/en/tickets/" class="bg-blue-800 text-white py-2 px-6 rounded-md font-medium hover:bg-blue-900">SECURE YOUR PERSONAL PALACE TOUR</a>
         </div>
@@ -75,9 +75,9 @@
     <!-- Section 2 (Two-column layout) -->
     <section class="max-w-[1400px] mx-auto grid md:grid-cols-2 gap-6 px-4 md:px-8">
         <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="/upload/explore.png" alt="Explore Qasr Al Watan" class="w-full h-64 object-cover">
+            <img src="/upload/explore.png" alt="Explore COASTAL CONTRACTING, INC" class="w-full h-64 object-cover">
             <div class="p-6">
-                <h3 class="text-xl font-semibold mb-3">Explore Qasr Al Watan</h3>
+                <h3 class="text-xl font-semibold mb-3">Explore</h3>
                 <p class="text-gray-700 mb-4">A Journey Through Majesty and Knowledge</p>
                 <a href="/en/explore-the-palace/" class="text-blue-800 font-medium hover:underline">LEARN MORE →</a>
             </div>
@@ -86,7 +86,7 @@
             <img src="/upload/opening.png" alt="Opening Hours" class="w-full h-64 object-cover">
             <div class="p-6">
                 <h3 class="text-xl font-semibold mb-3">Opening Hours</h3>
-                <p class="text-gray-700 mb-4">Discover the magnificent Qasr Al Watan</p>
+                <p class="text-gray-700 mb-4">Discover the magnificent palace</p>
                 <a href="/en/plan-your-visit/opening-hours#visitors-information" class="text-blue-800 font-medium hover:underline">LEARN MORE →</a>
             </div>
         </div>
@@ -98,24 +98,24 @@
 
 <section class="bg-blue-900 text-white py-12 mt-12">
     <div class="max-w-[1400px] mx-auto px-4 md:px-8 relative">
-        <h2 id="inside-qasralwatan" class="text-center text-3xl font-semibold mb-6">Inside Qasr Al Watan</h2>
+        <h2 id="inside" class="text-center text-3xl font-semibold mb-6">Our highlights</h2>
 
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <!-- Slide 1 -->
                 <div class="swiper-slide">
                     <a href="/en/great-hall/" class="block bg-white text-gray-900 rounded-lg overflow-hidden shadow-lg">
-                        <img src="/upload/hall.png" alt="Qasr Al Watan – The Great Hall" class="w-full h-64 object-cover">
+                        <img src="/upload/hall.png" alt="COASTAL CONTRACTING, INC – The Great Hall" class="w-full h-64 object-cover">
                         <div class="p-6">
                             <h3 class="text-xl font-semibold mb-3">The Great Hall</h3>
-                            <p class="text-gray-700">Step into the heart of Qasr Al Watan</p>
+                            <p class="text-gray-700">Step into the heart of The Great Hall</p>
                         </div>
                     </a>
                 </div>
                 <!-- Slide 2 -->
                 <div class="swiper-slide">
                     <a href="/en/banquet/" class="block bg-white text-gray-900 rounded-lg overflow-hidden shadow-lg">
-                        <img src="/upload/presidental.png" alt="Qasr Al Watan – The Presidential Banquet" class="w-full h-64 object-cover">
+                        <img src="/upload/presidental.png" alt="COASTAL CONTRACTING, INC – The Presidential Banquet" class="w-full h-64 object-cover">
                         <div class="p-6">
                             <h3 class="text-xl font-semibold mb-3">The Presidential Banquet</h3>
                             <p class="text-gray-700">A Celebration of Culture</p>
@@ -141,7 +141,7 @@
     </div>
 </section>
 <footer class="bg-gray-800 text-white text-center py-4">
-        <p>&copy; <?php echo date("Y"); ?> Qasr Al Watan. All Rights Reserved.</p>
+        <p>&copy; <?php echo date("Y"); ?> COASTAL CONTRACTING, INC. All Rights Reserved.</p>
         <nav class="mt-2">
             <a href="/privacy.php" class="text-blue-600 hover:underline mr-4">Privacy Policy</a>
             <a href="/terms.php" class="text-blue-600 hover:underline">Terms of Conduct</a>
